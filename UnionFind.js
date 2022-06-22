@@ -25,7 +25,7 @@ let N=1e3+10;
 let parent=new Array(N);
 let size=new Array(N);
 
-    make(1);
+        make(1);
 	make(2);
 	Union(1,2);
 	make(3);
